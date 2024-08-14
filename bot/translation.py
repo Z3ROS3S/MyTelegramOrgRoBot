@@ -19,10 +19,7 @@
 class Translation:
     START_TEXT = (
         "Hi!\n"
-        "please read the TnC before proceeding: https://t.me/SpEcHlDe/889\n"
-        "Thank you for using me 😬\n"
         "Enter your Telegram Phone Number, "
-        "to get the APP-ID from my.telegram.org\n\n"
         "/start at any stage to re-enter your details"
     )
     AFTER_RECVD_CODE_TEXT = (
