@@ -26,12 +26,6 @@ class Translation:
         "I see!\n"
         "now please send the Telegram code that "
         "you received from Telegram!\n\n"
-
-        "this code is only used for the purpose of "
-        "getting the APP ID from my.telegram.org\n"
-        "if you do not trust this bot dev, "
-        "please host this bot yourself\n"
-        "by opening https://github.com/SpEcHiDe/MyTelegramOrgRoBot and "
         "clicking on the Pink Button\n\n"
 
         "/start at any stage to re-enter your details"
