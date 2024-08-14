@@ -71,7 +71,7 @@ def main():
     # application.add_error_handler(error)
 
     print(
-        "Bot Starting: Join @SpEcHlDe (https://tx.me/SpEcHlDe)"
+        "Bot Starting: BOSSSSSSSS"
     )
 
     # Start the Bot
